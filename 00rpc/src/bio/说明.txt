@@ -1,0 +1,12 @@
+传统的socket通信
+server
+1.server创建server socket并绑定端口，监听端口
+3.server接收请求，创建连接socket，通过输入流接收数据
+5.sever通过输出流响应数据
+
+
+client
+2.client创建连接socket，向服务端发送请求，建立连接
+4.client连接后，通过输出流向服务端发送数据
+6.client通过输入流接收server的响应数据
+7.数据通讯完成后，关闭socket及相关资源
