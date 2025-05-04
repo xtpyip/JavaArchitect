@@ -1,0 +1,4 @@
+start包下的是同步与异步的Server与Client的通信过程,及handler处理
+encoder包下是在start包的基础上进行了编码器与解码器的运用
+chat包下的是基于netty的一个应用实现,聊天室应用
+http包下的是基于netty的web端服务器的实现
