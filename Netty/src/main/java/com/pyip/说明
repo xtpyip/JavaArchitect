@@ -4,3 +4,4 @@ chat包下的是基于netty的一个应用实现,聊天室应用
 http包下的是基于netty的web端服务器的实现
 sticking包下的是基于tcp的粘包问题
 unpack包下的是基于tcp的拆包问题
+rmi包下的是基于java的rmi生成的简单远程通信
