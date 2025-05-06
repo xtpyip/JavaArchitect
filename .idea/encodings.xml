@@ -5,5 +5,13 @@
     <file url="file://$PROJECT_DIR$/Netty-Web/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Netty/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Netty/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/netty-rpc/netty-rpc-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/netty-rpc/netty-rpc-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/netty-rpc/netty-rpc-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/netty-rpc/netty-rpc-consumer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/netty-rpc/netty-rpc-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/netty-rpc/netty-rpc-provider/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/netty-rpc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/netty-rpc/src/main/resources" charset="UTF-8" />
   </component>
 </project>
